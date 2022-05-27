@@ -1418,7 +1418,10 @@ ul.categories-list li:first-child {
 
     /* ============================== Products */
     .products {
+        max-width: 1200px;
+        width: 100%;
         margin-bottom: 5.25rem;
+        padding: 0;
     }
 
     .products-wrap {
